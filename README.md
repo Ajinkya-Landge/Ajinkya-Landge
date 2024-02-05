@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ajinkya Landge</h1>
+<h1 align="center">Hi 👋, I'm Ajinkya </h1>
 <h3 align="center">A passionate QA Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/Ajinkya-Landge/Ajinkya-Landge/blob/main/A.gif ">
